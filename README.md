@@ -21,6 +21,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- JS Dom manipulation
 
 ## My profile at Frontend Mentor
 
